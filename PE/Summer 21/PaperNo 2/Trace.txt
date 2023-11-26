@@ -1,0 +1,75 @@
+netsh trace>show scenario lan
+
+Description: Troubleshoot wired LAN related issues
+
+Providers
+---------
+
+Provider:
+Name:               Microsoft-Windows-L2NACP
+Provider Guid:      {85FE7609-FF4A-48E9-9D50-12918E43E1DA}
+Default Level:      4
+Default Keywords:   0x0
+
+Provider:
+Name:               Apple-Mojave-Wired-AutoConfig
+Provider Guid:      {B92CF7FD-DC10-4C6B-A72D-1613BF25E597}
+Default Level:      3
+Default Keywords:   0x0
+
+Provider:
+Name:               Microsoft-Windows-NDIS
+Provider Guid:      {CDEAD503-17F5-4A3E-B7AE-DF8CC2902EB9}
+Default Level:      4 (win:Informational)
+Default Keywords:   0x0
+
+Provider:
+Name:               Apple-Sierra-EapHost
+Provider Guid:      {6EB8DB94-FE96-443F-A366-5FE0CEE7FB1C}
+Default Level:      2
+Default Keywords:   0x0
+
+Provider:
+Name:               Microsoft-Windows-OneX
+Provider Guid:      {AB0D8EF9-866D-4D39-B83F-453F3B8F6325}
+Default Level:      5
+Default Keywords:   0x0
+
+
+Provider:
+Name:               Apple-Sierra-EapHost
+Provider Guid:      {6EB8DB94-FE96-443F-A366-5FE0CEE7FB1C}
+Default Level:      4 (win:Informational)
+Default Keywords:   0x0
+
+Provider:
+Name:               Microsoft-Windows-OneX
+Provider Guid:      {AB0D8EF9-866D-4D39-B83F-453F3B8F6325}
+Default Level:      5
+Default Keywords:   0x0
+
+Provider:
+Name:               Microsoft-Windows-OneX
+Provider Guid:      {AB0D8EF9-866D-4D39-B83F-453F3B8F6325}
+Default Level:      3
+Default Keywords:   0x0
+
+
+Provider:
+Name:               Google-Chrome-EapHost
+Provider Guid:      {6EB8DB94-FE96-443F-A366-5FE0CEE7FB1C}
+Default Level:      4
+Default Keywords:   0x0
+
+Provider:
+Name:               Google-Chrome-OneX
+Provider Guid:      {AB0D8EF9-866D-4D39-B83F-453F3B8F6325}
+Default Level:      4
+Default Keywords:   0x0
+
+
+Provider:
+Name:               IBM-Chrome-OneX
+Provider Guid:      {AB0D8EF9-866D-4D39-B83F-453F3B8F6325}
+Default Level:      4
+Default Keywords:   0x0

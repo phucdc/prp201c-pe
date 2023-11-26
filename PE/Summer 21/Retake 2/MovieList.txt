@@ -1,0 +1,7 @@
+MovieID length
+Sci001 90 
+Sci002 95
+Sci003 100
+Act011 97
+Act021 80
+Act012 85

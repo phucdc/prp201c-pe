@@ -1,0 +1,7 @@
+ID	PName		CatID
+TV01	Samsung 43	TV	
+TV02	Samsung 50	TV	
+PH01	IPhone 14	PH	
+PH02	IPhone 13	PH	
+PH03	SamSung S13	PH	
+CO01	Dell 14'	CO	

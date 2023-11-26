@@ -1,0 +1,6 @@
+ID	Category
+CO	Computer
+PH	Phone
+TV	Tivi
+TB	Tablet
+	
